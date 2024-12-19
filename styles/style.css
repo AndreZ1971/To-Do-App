@@ -119,3 +119,15 @@ h1 {
     color: #666666;
     margin-top: 20px;
 }
+
+.todo-item {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.todo-delete:hover {
+    background-color: #c9302c;
+    color: #ffffff;
+    cursor: pointer;
+}
